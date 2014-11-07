@@ -160,8 +160,8 @@
 						<string>Position</string>
 						<key>value</key>
 						<array>
-							<real>244</real>
-							<real>92</real>
+							<real>120</real>
+							<real>91</real>
 							<integer>0</integer>
 							<integer>0</integer>
 							<integer>0</integer>
@@ -189,8 +189,6 @@
 						<string>Bear.ccb</string>
 					</dict>
 				</array>
-				<key>selected</key>
-				<true/>
 			</dict>
 			<dict>
 				<key>UUID</key>
@@ -224,8 +222,8 @@
 						<string>Position</string>
 						<key>value</key>
 						<array>
-							<real>401</real>
-							<real>81</real>
+							<real>264</real>
+							<real>85</real>
 							<integer>0</integer>
 							<integer>0</integer>
 							<integer>0</integer>
@@ -313,8 +311,8 @@
 						<string>Position</string>
 						<key>value</key>
 						<array>
-							<real>386</real>
-							<real>198</real>
+							<real>262</real>
+							<real>200</real>
 							<integer>0</integer>
 							<integer>0</integer>
 							<integer>0</integer>
@@ -458,6 +456,8 @@
 						</array>
 					</dict>
 				</array>
+				<key>selected</key>
+				<true/>
 			</dict>
 		</array>
 		<key>customClass</key>
@@ -589,7 +589,7 @@
 			<key>resolution</key>
 			<real>30</real>
 			<key>scale</key>
-			<real>128</real>
+			<real>123.76966094970703</real>
 			<key>sequenceId</key>
 			<integer>0</integer>
 			<key>soundChannel</key>
