@@ -11,7 +11,7 @@
 @implementation Gameplay
     CCPhysicsNode *_physicsNode;
     CCNode *_catapultArm;
-@end
+
 
 
 // is called when CCB file has completed loading
@@ -40,4 +40,4 @@
     [penguin.physicsBody applyForce:force];
 }
 
-
+@end
