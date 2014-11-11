@@ -30,6 +30,10 @@
     
     
     
+    // visualize physics bodies & joints
+    _physicsNode.debugDraw = TRUE;
+    
+    
 }
 
 // called on every touch in this scene
