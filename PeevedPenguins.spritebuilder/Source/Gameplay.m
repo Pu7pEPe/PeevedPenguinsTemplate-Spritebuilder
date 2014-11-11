@@ -31,7 +31,7 @@
     
     
     // visualize physics bodies & joints
-    _physicsNode.debugDraw = TRUE;
+//    _physicsNode.debugDraw = TRUE;
     
     
 }
